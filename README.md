@@ -125,9 +125,11 @@ Major 重大的（性能提升）
 
 Intriguing （question） 耐人寻味的问题
 
-inherently 自然地
+inherently (suboptimal) 自然地
 
 - nattually
+
+benign 良性的，较好的（情况下）
 
 ### 短语
 
@@ -188,8 +190,11 @@ Brought to attention。。 （某些问题）被带入视野
 
 （by）adhering to 某项技术始终坚持（固有的、传统的思路，eg. Postulates that（某种传统的假设））。。
 
-
 Flourish 某事物过多（原意为茂盛）
+
+damped or obstructed （信号）被遮挡
+
+
 
 ### 名词
 
@@ -213,7 +218,13 @@ Flourish 某事物过多（原意为茂盛）
 
 ​    A plethora of research actives
 
- 
+ biased 在某种情况下表现不佳
+
+harsh 严峻的 某种恶劣情况
+
+> harsh multipath environments
+
+
 
 ## 句式
 
@@ -230,7 +241,7 @@ Flourish 某事物过多（原意为茂盛）
 
 are, however, not designed to meet these requirements（某种技术）并不能满足这些需求
 
- 
+ Nonetheless 尽管如此
 
 ### 提出
 
@@ -312,4 +323,4 @@ It is forecast that
 
 ​    Between 2020 and 2030, it is forecast that the data traffic of the global Internet protocol (IP) will increase by 55% each year, eventually reaching 5,016 exabytes
 
- 
+ have received significant treatment in the technical literature 在研究领域受到了关注
