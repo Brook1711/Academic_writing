@@ -24,7 +24,9 @@ order of magnitude 数量级
 
 status quo 现状
 
-​    can this status quo be fundamentally overcome
+> can this status quo be fundamentally overcome
+
+triangulation 三角测量
 
 vision 愿景
 
@@ -36,50 +38,56 @@ vision 愿景
 
 ### 动词
 
-Be envisioned to do 预期可以（达到某种目的或预计需要某些要求）
+Be envisioned to do 
 
-The sixth generation (6G) of communication networks is, on the other hand, envisioned to require a new architectural platform that performs joint communication, sensing, localization, and computing, while ensuring ultra-high throughput, ultra-low latency, and ultra-high reliability, which need to be flexibly customized in real-time.
+> 预期可以（达到某种目的或预计需要某些要求）
+>
+> The sixth generation (6G) of communication networks is, on the other hand, envisioned to require a new architectural platform that performs joint communication, sensing, localization, and computing, while ensuring ultra-high throughput, ultra-low latency, and ultra-high reliability, which need to be flexibly customized in real-time.
 
  
 
-
  emerged 新兴技术兴起
-  e.g. have emerged as a new paradigm for
 
+> e.g. have emerged as a new paradigm for
 
  vancing 技术进步
-  e.g. From 1G to 5G, the system capacity has been significantly improved by ad vancing the transceiver design
 
+> e.g. From 1G to 5G, the system capacity has been significantly improved by ad vancing the transceiver design
 
  fabricated 建造
-  Particularly, an active RIS element was designed and fabricated to validate the developed signal model through experimental measurements.
 
+> Particularly, an active RIS element was designed and fabricated to validate the developed signal model through experimental measurements.
 
  manipulate 操控
-  Then, by properly adjusting Θ to manipulate the N signals reflected by the N RIS elements to coherently add up with the same phase at the receiver, a high array gain proportional to N2 can be achieved.
+
+> Then, by properly adjusting Θ to manipulate the N signals reflected by the N RIS elements to coherently add up with the same phase at the receiver, a high array gain proportional to N2 can be achieved.
 
 
  integrate 将某项技术融合进来
 
-the key component of an active RIS element is the additionally integrated active reflectiontype amplifier, which can be realized by many existing active components, such the current-inverting converter
+> the key component of an active RIS element is the additionally integrated active reflectiontype amplifier, which can be realized by many existing active components, such the current-inverting converter
 
 expected （性能提升）达到
 
-​    the improvements that can be expected by （某项技术）
+> the improvements that can be expected by （某项技术）
 
-​    Major performance gains can be expected by breaking free from the postulate that（）
+> Major performance gains can be expected by breaking free from the postulate that（）
 
 imperative 重要的
 
-In view of the above issues and limitations, it is imperative to develop disruptively new and innovative technologies to achieve a sustainable capacity growth of future wireless networks with low and affordable cost, complexity, and energy consumption.
+> In view of the above issues and limitations, it is imperative to develop disruptively new and innovative technologies to achieve a sustainable capacity growth of future wireless networks with low and affordable cost, complexity, and energy consumption.
 
 Fulfill 满足（具有挑战性的要求）
 
-​       Fulfill the challenging requirements
+> Fulfill the challenging requirements
 
-Break（ing） free from 打破（某种传统思维）
+Break（ing） free from 打破/突破（某种传统思维）
 
-​    Major performance gains can be expected by breaking free from the postulate that
+> Major performance gains can be expected by breaking free from the postulate that
+
+exploit 利用
+
+- harnessing 驾驭
 
 ### 名词
 
@@ -101,7 +109,7 @@ criteria 条件
  incident 除了有名词“事件”的意思之外还有“附加的”意思，和signal组合的时候意为入射信号
  noticeable 引人注目的，可以作为good的替换词
 
-we propose the concept of active RISs as a promising solution to achieve noticeable capacity gains also in typical communication scenarios.
+> we propose the concept of active RISs as a promising solution to achieve noticeable capacity gains also in typical communication scenarios.
 
 interdisciplinary 跨学科的
 
@@ -117,34 +125,53 @@ Major 重大的（性能提升）
 
 Intriguing （question） 耐人寻味的问题
 
+inherently 自然地
+
+- nattually
+
 ### 短语
 
 in a desired manner
 
-Specifically, an RIS is an array composed of massive passive elements, which reflect electromagnetic signals in a desired manner so as to reconfigure the wireless environment [5](https://856864bb-40f8-459e-bc8e-72ec1a88b802.vscode-webview-test.com/vscode-resource/file/f:/demo/jupyter_notebook/academic_english/).
- the key feature of
-  the key feature of active RIS is the capability of actively reflectin g signals with amplification at the expense of additional power consumption.
+> Specifically, an RIS is an array composed of massive passive elements, which reflect electromagnetic signals in a desired manner so as to reconfigure the wireless environment [5](https://856864bb-40f8-459e-bc8e-72ec1a88b802.vscode-webview-test.com/vscode-resource/file/f:/demo/jupyter_notebook/academic_english/).
 
+the key feature of
 
- be realized by （某些愿景，eg SREs）通过..实现
+> the key feature of active RIS is the capability of actively reflectin g signals with amplification at the expense of additional power consumption.
+
+ be realized by 
+
+> （某些愿景，eg SREs）通过..实现
 
 in an attempt of doing 试图（解决问题）
 
-​    A plethora of research activities have flourished in an attempt of tinkling 
+> A plethora of research activities have flourished in an attempt of tinkling 
 
-In the context of 在（）的背景之下
+In the context of
 
- 
+> 在（）的背景之下
 
-The current long-term vision for 。。。目前。。。的愿景
+ counter the limitation of ...
 
-Conceptual and fundamental differences with 。。 和。。的概念上和本质上的区别
+> 突破限制
 
-Comprehensive and critical overview 综合的和重要的概述
+The current long-term vision for 
+
+> 。。。目前。。。的愿景
+
+Conceptual and fundamental differences with
+
+> 。。 和。。的概念上和本质上的区别
+
+Comprehensive and critical overview 
+
+> 综合的和重要的概述
 
 Fundamental technology enablers（关键技术），main operating principles（主要设计原则）， envisioned potential applications（新兴的潜在应用）， current state of research（现阶段研究状态） and the open research challenges（开放的研究挑战） of the emerging concept （新兴的概念）of SREs。
 
- 
+an enabler for
+
+> ...的启发性技术
 
 ## 贬义
 
@@ -160,7 +187,7 @@ Brought to attention。。 （某些问题）被带入视野
  bypassed
 
 （by）adhering to 某项技术始终坚持（固有的、传统的思路，eg. Postulates that（某种传统的假设））。。
- 
+
 
 Flourish 某事物过多（原意为茂盛）
 
@@ -196,7 +223,7 @@ Flourish 某事物过多（原意为茂盛）
  ....(describe the drawbacks), which however has been widely ignored in many existing works.
  while 表示轻度转折
   From 1G to 5G, the system capacity has been significantly improved by ad vancing the transceiver design, while the wireless channels have been usually considered to be uncontrollable.
- 
+
  are only observed in atypical communication scenarios where 场景的局限性
  By contrast, ...
  Unfortunately
