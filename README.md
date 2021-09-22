@@ -32,7 +32,15 @@ vision 愿景
 
 ​    the vision of SREs
 
- 
+ intermediate (parameters) 中间变量
+
+isotropic 各向同性的
+
+mutual (antanna coupling)
+
+
+
+
 
 ## 褒义
 
@@ -131,6 +139,12 @@ inherently (suboptimal) 自然地
 
 benign 良性的，较好的（情况下）
 
+tailored 某种技术适用于某种场景
+
+> be tailored to n.
+
+numerous numerical (results) 很多仿真结果
+
 ### 短语
 
 in a desired manner
@@ -174,6 +188,8 @@ Fundamental technology enablers（关键技术），main operating principles（
 an enabler for
 
 > ...的启发性技术
+>
+> this property enables xxx to infer the source postion from xxx
 
 ## 贬义
 
@@ -242,6 +258,8 @@ harsh 严峻的 某种恶劣情况
 are, however, not designed to meet these requirements（某种技术）并不能满足这些需求
 
  Nonetheless 尽管如此
+
+whereas 等价于while 然而，一种东西怎么样，然而另一种东西怎么样
 
 ### 提出
 
