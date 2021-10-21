@@ -16,6 +16,8 @@ reuniting （重新）统一
 
 emerging research field 新兴研究领域
 
+> Recently, the emerging technology of Reconfigurable Intelligent Surface (RIS)
+
 heterogeneous （多种技术）混合的
 
 postulates 前提
@@ -38,7 +40,9 @@ isotropic 各向同性的
 
 mutual (antanna coupling)
 
+Holographic 全息的
 
+cognitive radio 认知无线电
 
 
 
@@ -52,7 +56,9 @@ Be envisioned to do
 >
 > The sixth generation (6G) of communication networks is, on the other hand, envisioned to require a new architectural platform that performs joint communication, sensing, localization, and computing, while ensuring ultra-high throughput, ultra-low latency, and ultra-high reliability, which need to be flexibly customized in real-time.
 
- 
+ acommodate 适应（新的需求）
+
+> To accommodate the new demands
 
  emerged 新兴技术兴起
 
@@ -93,9 +99,13 @@ Break（ing） free from 打破/突破（某种传统思维）
 
 > Major performance gains can be expected by breaking free from the postulate that
 
+manipulate 使用
+
 exploit 利用
 
 - harnessing 驾驭
+- manipulate 
+- capitalizing on 
 
 ### 名词
 
@@ -110,6 +120,10 @@ paradigm 范例
 criteria 条件
 
 ​    designs and optimization criteria 设计上和优化过程中的条件（处理方式、标准）
+
+prerequisite 先决条件
+
+
 
 ### 形容词
 
@@ -214,6 +228,12 @@ damped or obstructed （信号）被遮挡
 
 ### 名词
 
+attenuation 衰减
+
+burden 负担
+
+> an overweight burden in the systen design
+
 ### 形容词
 
 
@@ -239,6 +259,12 @@ damped or obstructed （信号）被遮挡
 harsh 严峻的 某种恶劣情况
 
 > harsh multipath environments
+
+non-trivial （task） 严峻的挑战
+
+intermittent （信号差）间接的，时断时续的
+
+unaffordable 成本太高 难以承受
 
 
 
@@ -318,7 +344,7 @@ The core functionality of ... relies on ... 。。。的主要功能是。。。
 
 Broadly speaking 广义上讲
 
- 
+ In spite of the appealing advantages of (...) 尽管（某项技术）具有很多优势
 
 ### 实验结果
 
