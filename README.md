@@ -159,6 +159,10 @@ tailored 某种技术适用于某种场景
 
 numerous numerical (results) 很多仿真结果
 
+Indispensable 必不可少的
+
+> Vital 
+
 ### 短语
 
 in a desired manner
