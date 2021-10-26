@@ -44,7 +44,7 @@ Holographic 全息的
 
 cognitive radio 认知无线电
 
-
+increasing-quality 渐进算法
 
 ## 褒义
 
@@ -63,6 +63,10 @@ Be envisioned to do
  emerged 新兴技术兴起
 
 > e.g. have emerged as a new paradigm for
+
+endow 赋予 （某种性质）
+
+> 
 
  vancing 技术进步
 
@@ -106,6 +110,12 @@ exploit 利用
 - harnessing 驾驭
 - manipulate 
 - capitalizing on 
+
+Taming 改良
+
+> pruned 经过改进的（裁剪、自定义）
+
+Substaintial 巨大的（改进）
 
 ### 名词
 
@@ -162,6 +172,15 @@ numerous numerical (results) 很多仿真结果
 Indispensable 必不可少的
 
 > Vital 
+
+pervasive
+
+decidedly 必然的
+
+
+
+
+
 
 ### 短语
 
@@ -269,6 +288,8 @@ non-trivial （task） 严峻的挑战
 intermittent （信号差）间接的，时断时续的
 
 unaffordable 成本太高 难以承受
+
+combinatorial amount of 巨量（计算复杂度）
 
 
 
