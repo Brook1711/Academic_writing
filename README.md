@@ -115,13 +115,27 @@ Taming 改良
 
 > pruned 经过改进的（裁剪、自定义）
 
+augment 增强（无线通信）
+
 Substaintial 巨大的（改进）
+
+necessitates 需要
+
+> Therefore, the ever growing need for higher data rates and better connectivity across highly challenging scenarios and environments necessitates the adoption of extraordinary technological solutions.
 
 ### 名词
 
 Backbone 支柱（技术）
 
-​    Constitute the backbone of 5G network
+>  Constitute the backbone of 5G network
+>
+> * pillars 支柱
+>
+>   > one of the main pillars of
+>
+>   
+
+
 
 paradigm 范例
 
@@ -133,12 +147,30 @@ criteria 条件
 
 prerequisite 先决条件
 
+with high fidelity （信道估计活实验结果）精度很高
 
+intervention (人为) 干预
+
+> SEN (自演进网络) 可以在更少的人为干预下
+
+agility 灵活性
+
+> Recently, Self-Evolving Networks (SENs) [1] have been proposed to facilitate autonomous network manage- ment to reduce human intervention as much as possible by considering the agility and Machine Learning (ML)- based management aspects of Next Generation Wireless Networks (NGWNs).
+
+autonomous 自主的
 
 ### 形容词
 
+holistic 全面的
+
+> holistic view of the problem
 
  incident 除了有名词“事件”的意思之外还有“附加的”意思，和signal组合的时候意为入射信号
+
+contemporary paradigms 现代的大规模计划，（工业4.0 智慧城市 autonomous connected vehicles
+
+ubiquitous （某项技术、某些愿景）变得常见了
+
  noticeable 引人注目的，可以作为good的替换词
 
 > we propose the concept of active RISs as a promising solution to achieve noticeable capacity gains also in typical communication scenarios.
@@ -155,6 +187,8 @@ Major 重大的（性能提升）
 
 ​    Major performance gains can be expected by
 
+* profoundly .adv 极大程度地（提高性能）
+
 Intriguing （question） 耐人寻味的问题
 
 inherently (suboptimal) 自然地
@@ -162,6 +196,10 @@ inherently (suboptimal) 自然地
 - nattually
 
 benign 良性的，较好的（情况下）
+
+ingenious 精妙的（技术）
+
+extraordinary 性能好的（技术）
 
 tailored 某种技术适用于某种场景
 
@@ -177,9 +215,9 @@ pervasive
 
 decidedly 必然的
 
+imperative （某项技术）是十分迫切的
 
-
-
+Unprecedented 空前的
 
 
 ### 短语
@@ -291,6 +329,8 @@ unaffordable 成本太高 难以承受
 
 combinatorial amount of 巨量（计算复杂度）
 
+conservative 保守的
+
 
 
 ## 句式
@@ -331,7 +371,7 @@ we put forth the need of ：我们提出了。。的需要
 
 ​    we put forth the need of reconciling and reuniting C. E. Shannon’s mathematical theory of communication with G. Green’s and J. C. Maxwell’s mathematical theories of electromagnetism for appropriately modeling, analyzing, optimizing, and deploying future wireless networks empowered by RISs
 
- 
+ network man- agement under such highly dynamic conditions arises as a challenging research problem 。。场景下的什么问题提出挑战
 
 ### 对比
 
@@ -393,3 +433,11 @@ It is forecast that
 ​    Between 2020 and 2030, it is forecast that the data traffic of the global Internet protocol (IP) will increase by 55% each year, eventually reaching 5,016 exabytes
 
  have received significant treatment in the technical literature 在研究领域受到了关注
+
+
+
+To address the ever-growing connectivity de-mand in communications, the adoption of ingenious so-lutions, such as... 为了解决。。。已经有。。。技术
+
+has **a** potential to 
+
+metropolitan areas 都市区域
