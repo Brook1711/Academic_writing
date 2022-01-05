@@ -375,9 +375,10 @@ we put forth the need of ：我们提出了。。的需要
 
 ### 对比
 
-
  Different from the existing passive RIS that reflects signals passively without amplification, active RIS can actively amplify the reflected signals.
  By contrast, ...
+
+A shares the same spirit with B. However,
 
 ### 并列
 
@@ -413,10 +414,13 @@ Broadly speaking 广义上讲
 
 ### 实验结果
 
-
  extensive results show that,
  Particularly, an active RIS element was designed and fabricated to validate the developed signal model through experimental measurements.
  Extensive results show that,
+
+Finally, we conduct simulations to verify ...
+
+
 
 ### 背景
 
@@ -441,3 +445,6 @@ To address the ever-growing connectivity de-mand in communications, the adoption
 has **a** potential to 
 
 metropolitan areas 都市区域
+
+(RIS) is envisioned to be an essential component of the paradigm for beyond 5G networks 
+
