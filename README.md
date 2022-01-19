@@ -54,9 +54,9 @@ Be envisioned to do
 
 > 预期可以（达到某种目的或预计需要某些要求）
 >
-> The sixth generation (6G) of communication networks is, on the other hand, envisioned to require a new architectural platform that performs joint communication, sensing, localization, and computing, while ensuring ultra-high throughput, ultra-low latency, and ultra-high reliability, which need to be flexibly customized in real-time.
+> The sixth-generation (6G) of communication networks is, on the other hand, envisioned to require a new architectural platform that performs joint communication, sensing, localization, and computing, while ensuring ultra-high throughput, ultra-low latency, and ultra-high reliability, which need to be flexibly customized in real-time.
 
- acommodate 适应（新的需求）
+ accommodate 适应（新的需求）
 
 > To accommodate the new demands
 
@@ -68,9 +68,9 @@ endow 赋予 （某种性质）
 
 > 
 
- vancing 技术进步
+ advancing 技术进步
 
-> e.g. From 1G to 5G, the system capacity has been significantly improved by ad vancing the transceiver design
+> e.g. From 1G to 5G, the system capacity has been significantly improved by advancing the transceiver design
 
  fabricated 建造
 
@@ -83,7 +83,11 @@ endow 赋予 （某种性质）
 
  integrate 将某项技术融合进来
 
-> the key component of an active RIS element is the additionally integrated active reflectiontype amplifier, which can be realized by many existing active components, such the current-inverting converter
+> the key component of an active RIS element is the additionally integrated active reflection-type amplifier, which can be realized by many existing active components, such the current-inverting converter
+
+comprise 包含
+
+> An RIS comprises many reconfigurable elements that adjust the reflection, refraction, and scattering characteristics of the incident signals by inducing the manageable phase shifts of the elements without complex decoding, encoding, and radio frequency processing operations
 
 expected （性能提升）达到
 
